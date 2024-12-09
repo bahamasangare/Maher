@@ -2,42 +2,45 @@
 sidebar_position: 1
 ---
 
-# Create a Page
+# Chapitre 5A  
+**Record du monde d’altitude**  
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+### AVIATEUR : ROLAND GARROS ET GEORGE MADON, FILS DE PAYS  
+**AÉROPLANE** : Morane Saulnier type H, équipé d’un moteur Gnome  
+**Période** : du 29 NOVEMBRE 1912 au 11 DÉCEMBRE 1912  
 
-- `src/pages/index.js` → `localhost:3000/`
-- `src/pages/foo.md` → `localhost:3000/foo`
-- `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
+---
 
-## Create your first React Page
+Ce nom célèbre est surtout connu des amateurs de tennis, pourtant, Roland Garros fut avant tout un grand aviateur. Né en 1888 à Saint-Denis de la Réunion, cet officier français, recordman du monde d’altitude à plusieurs reprises, réussit la première traversée de la Méditerranée dans les deux sens. Ces exploits eurent lieu en Tunisie suite à deux tentatives effectuées en 1912 et en 1913. On pouvait lire dans les journaux de l’époque une lettre aux Tunisois, signée de Roland Garros, où il disait :  
 
-Create a file at `src/pages/my-react-page.js`:
+> « J’ai trouvé à Tunis du soleil, de la chance et de la sympathie, j’en tresserai un souvenir. »  
 
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
+---
 
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
+## Record du monde d’altitude  
 
-A new page is now available at [http://localhost:3000/my-react-page](http://localhost:3000/my-react-page).
+Roland Garros, accompagné de son manager Manselon et de ses deux mécaniciens Jules Huc et Pierre Schu, touche le sol tunisien le 29 novembre 1912, à bord d’un paquebot. Son avion, Morane Saulnier type H, équipé d’un moteur Gnome de sept cylindres rotatifs de cinquante CV et d’un autre de rechange de quatre-vingt CV, est amarré dans les soutes du bateau.  
 
-## Create your first Markdown Page
+En décembre, Tunis bénéficie d’une température moyenne avoisinant les 12 °C. Garros n’était pas venu à Tunis pour faire du spectacle, mais dans le but de battre le record du monde d’altitude. Jouant sur la variation de la température, il espérait gagner au moins 2 000 mètres par rapport à l’Europe.  
 
-Create a file at `src/pages/my-markdown-page.md`:
+Son manager, Manselon, obtient la permission d’installer un hangar démontable à l’hippodrome de Ksar Saïd, où la piste de course des chevaux est transformée en piste de décollage et d’atterrissage.  
 
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
+---
 
-This is a Markdown page
-```
+### La tentative du 5 décembre 1912  
 
-A new page is now available at [http://localhost:3000/my-markdown-page](http://localhost:3000/my-markdown-page).
+Le jeudi 5 décembre, Garros effectue un vol d’essai, survolant la ville arabe sous les youyous des femmes tunisiennes. L’après-midi, devant une foule considérable, il tente deux vols successifs pour battre le record d’altitude. Cependant, le mauvais fonctionnement de son ballon d’oxygène et l’intensité du froid l’obligent à interrompre son ascension.  
+
+Il raconte qu’en 1911, lors d’un vol en Normandie, il avait atteint -30 °C, ce qui avait gelé son bras et manqué d’air. Cette fois-ci, il emporte davantage d’oxygène pour affronter les conditions difficiles.  
+
+---
+
+### Un triomphe le 11 décembre  
+
+Le 11 décembre 1912, Garros décolle dans un ciel clair. Après 1h26 de vol, il atterrit triomphalement, criant : « Je l’ai ! ». Le barographe indique une altitude record de **5601 mètres**, atteinte entre Carthage et Bizerte.  
+
+La Tunisie partage ce triomphe, offrant ses conditions climatiques idéales à cet exploit historique. Le héros est célébré lors d’un banquet offert par le Résident Général et fait chevalier du **Nichan El-Iftikhar** par le Bey.  
+
+---
+
+**Ce moment, inscrit dans l’histoire de l’aviation, témoigne de l’ingéniosité et du courage d’un pionnier.**  

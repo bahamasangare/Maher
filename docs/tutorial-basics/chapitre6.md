@@ -1,9 +1,4 @@
----
-sidebar_position: 1
----
-
-# Chapitre 5A  
-**Record du monde d’altitude**  
+# Chapitre 6 : Record du monde d’altitude  
 
 ### AVIATEUR : ROLAND GARROS ET GEORGE MADON, FILS DE PAYS  
 **AÉROPLANE** : Morane Saulnier type H, équipé d’un moteur Gnome  

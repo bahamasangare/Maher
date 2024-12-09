@@ -1,9 +1,5 @@
----
-sidebar_label: 'CHAPITRE 5B'
-sidebar_position: 2
----
 
-# La première traversée de la Méditerranée : Tunis Rome
+# Chapitre 7 : La première traversée de la Méditerranée : Tunis Rome
 
 ### AVIATION
 

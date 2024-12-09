@@ -1,9 +1,5 @@
----
-sidebar_position: 3
----
 
-# CHAPITRE 5C  
-**La traversée de la Méditerranée : Fréjus - Bizerte**  
+# CHAPITRE 8 : La traversée de la Méditerranée : Fréjus - Bizerte  
 
 ### AVIATEUR : ROLAND GARROS ET GEORGE MADON, FILS DE PAYS  
 ### AÉROPLANE : Morane Saulnier type H, équipé d’un moteur Gnome  

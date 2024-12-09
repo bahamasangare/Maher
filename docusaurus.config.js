@@ -90,32 +90,41 @@ const config = {
           },
         ],
       },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Maher Daaloul',
-            items: [
-              {
-                label: 'Ressources',
-                to: '/docs/intro',
-              },
-            ],
-          },
-         
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Qui est Maher Daaloul',
-                to: '/blog',
-              },
-             
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()}Maher Maaloul,  Built with Bahama SANGARE.`,
-      },
+            footer: {
+          style: 'dark',
+          links: [
+            {
+              title: 'Maher Daaloul',
+              items: [
+                {
+                  label: 'Ressources',
+                  to: '/docs/intro',
+                },
+              ],
+            },
+
+            {
+              title: 'Welcome',
+              items: [
+                {
+                  label: 'Accueil',
+                  to: '/',
+                },
+              ],
+            },
+            {
+              title: 'More',
+              items: [
+                {
+                  label: 'Qui est Maher Daaloul ?',
+                  to: '/blog',
+                },
+              ],
+            },
+          ],
+          copyright: `Copyright © ${new Date().getFullYear()} Maher Daaloul, Built with Bahama SANGARE.`,
+        },
+
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,

@@ -72,12 +72,6 @@ export default function HomepageFeatures() {
             alt="Photo de Maher Daaloul"
             style={imageStyle}
           />
-
-<img
-            src={require('@site/static/img/maher_photo.jpg').default}
-            alt="Photo de Maher Daaloul"
-            style={imageStyle}
-          />
         </div>
         {/* Section Texte */}
         <div style={textColumnStyle}>

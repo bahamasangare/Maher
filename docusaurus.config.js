@@ -85,9 +85,9 @@ const config = {
             position: 'left',
             label: 'Ressources',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Qui est Maher?', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/bahamasangare',
             label: 'GitHub',
             position: 'right',
           },

@@ -9,14 +9,29 @@ tags: [photographie, galerie]
 
 Voici une sélection de photos que j'ai prises au fil des années. Cliquez sur les images pour les agrandir.
 
-<div style={{ display: 'flex', flexWrap: 'wrap', gap: '15px' }}>
-  <img src="/img/maher_photo.jpg" alt="Photo 1" style={{ width: '30%', height: 'auto', borderRadius: '8px', boxShadow: '0 4px 8px rgba(0,0,0,0.1)' }} />
-  <img src="/img/maher.jpg" alt="Photo 2" style={{ width: '30%', height: 'auto', borderRadius: '8px', boxShadow: '0 4px 8px rgba(0,0,0,0.1)' }} />
-  <img src="/img/100_1081.JPG" alt="Photo 3" style={{ width: '30%', height: 'auto', borderRadius: '8px', boxShadow: '0 4px 8px rgba(0,0,0,0.1)' }} />
-  <img src="/img/421_0436.JPG" alt="Photo 4" style={{ width: '30%', height: 'auto', borderRadius: '8px', boxShadow: '0 4px 8px rgba(0,0,0,0.1)' }} />
-  <img src="/img/421_0466.JPG" alt="Photo 5" style={{ width: '30%', height: 'auto', borderRadius: '8px', boxShadow: '0 4px 8px rgba(0,0,0,0.1)' }} />
-  <img src="/img/Image55.jpg" alt="Photo 6" style={{ width: '30%', height: 'auto', borderRadius: '8px', boxShadow: '0 4px 8px rgba(0,0,0,0.1)' }} />
-  <img src="/img/IMG_0278.JPG" alt="Photo 7" style={{ width: '30%', height: 'auto', borderRadius: '8px', boxShadow: '0 4px 8px rgba(0,0,0,0.1)' }} />
-  <img src="/img/Maher03.jpg" alt="Photo 8" style={{ width: '30%', height: 'auto', borderRadius: '8px', boxShadow: '0 4px 8px rgba(0,0,0,0.1)' }} />
-  <img src="/img/photo_00521.jpg" alt="Photo 9" style={{ width: '30%', height: 'auto', borderRadius: '8px', boxShadow: '0 4px 8px rgba(0,0,0,0.1)' }} />
-</div>
+import Lightbox from 'react-lightbox-component';
+import 'react-lightbox-component/build/css/index.css';
+
+<Lightbox 
+  images={[
+    { src: '/img/maher_photo.jpg', alt: 'Photo 1' },
+    { src: '/img/maher.jpg', alt: 'Photo 2' },
+    { src: '/img/100_1081.JPG', alt: 'Photo 3' },
+    { src: '/img/421_0436.JPG', alt: 'Photo 4' },
+    { src: '/img/421_0466.JPG', alt: 'Photo 5' },
+    { src: '/img/Image55.jpg', alt: 'Photo 6' },
+    { src: '/img/IMG_0278.JPG', alt: 'Photo 7' },
+    { src: '/img/Maher03.jpg', alt: 'Photo 8' },
+    { src: '/img/photo_00521.jpg', alt: 'Photo 9' }
+  ]}
+  render={{
+    button: (onClick, isOpen) => (
+      <div 
+        onClick={onClick} 
+        style={{ cursor: 'pointer', margin: '0 auto', textAlign: 'center' }}
+      >
+        {isOpen ? 'Fermer' : 'Ouvrir'}
+      </div>
+    ),
+  }}
+/>

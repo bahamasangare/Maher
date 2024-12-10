@@ -31,3 +31,4 @@ Le soir, des manifestants récalcitrants continuent à troubler l’ordre public
 Il faut attendre le matin du mardi 6 septembre 1910 pour assister au premier vol historique réussi en Tunisie. Dufour réalise dans les champs de manœuvres de Forgemol un vol d’une courte durée, certes, mais après un décollage impeccable, en présence de nombreux témoins moins excités.  
 
 L’après-midi, pour confirmer ce premier succès, le *Blériot XI* est transporté sur un autre aérodrome choisi par l’aviateur, le lac de Sidjoumi, près de Tunis.  
+

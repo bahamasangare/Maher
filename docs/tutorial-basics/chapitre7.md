@@ -1,56 +1,41 @@
+# Chapitre 7 : Record du monde d’altitude  
 
-# Chapitre 7 : La première traversée de la Méditerranée : Tunis Rome
-
-### AVIATION
-
-- **Aviateur** : Roland Garros et George Madon, fils de pays.  
-- **Aéroplane** : Morane-Saulnier type H, équipé d’un moteur Gnome.  
-- **Période** : du 18 décembre 1912 au 21 décembre 1912.  
+### AVIATEUR : ROLAND GARROS ET GEORGE MADON, FILS DE PAYS  
+**AÉROPLANE** : Morane Saulnier type H, équipé d’un moteur Gnome  
+**Période** : du 29 NOVEMBRE 1912 au 11 DÉCEMBRE 1912  
 
 ---
 
-Roland Garros a été le premier dans l'histoire de l'aviation à relier les continents d'Afrique et d'Europe par les airs, dans les deux sens. Tout a commencé avec son vol depuis Tunis vers Rome, une traversée réalisée en quatre jours. Voici un résumé des événements majeurs de cette expédition historique :
+Ce nom célèbre est surtout connu des amateurs de tennis, pourtant, Roland Garros fut avant tout un grand aviateur. Né en 1888 à Saint-Denis de la Réunion, cet officier français, recordman du monde d’altitude à plusieurs reprises, réussit la première traversée de la Méditerranée dans les deux sens. Ces exploits eurent lieu en Tunisie suite à deux tentatives effectuées en 1912 et en 1913. On pouvait lire dans les journaux de l’époque une lettre aux Tunisois, signée de Roland Garros, où il disait :  
 
-## Préparations
-
-Avant la traversée, Garros a soigneusement préparé son vol, modifiant son avion pour réduire la consommation de carburant et améliorer les performances.
-
-- **Remplacement du moteur** : Passage d’un moteur 80 CV à un moteur 50 CV.
-- **Modifications des ailes** : Réduction de la surface des ailes à 14 m².
-
-## La Traversée
-
-### Départ de Tunis
-
-- **Date** : 18 décembre 1912.
-- **Carburant embarqué** : 87 litres d'essence et 20 litres d'huile.  
-Garros s'élance du sol tunisien, avec pour seul équipement de navigation une boussole, une montre, et sa foi en son moteur.
-
-### Balises de navigation
-
-Pour sécuriser son trajet au-dessus de la mer (288 km), une flotte de torpilleurs est positionnée pour former les premières **balises d'aide à la navigation aérienne**. Ces bâtiments de guerre étaient placés à intervalles réguliers entre le **Cap Bon (Tunisie)** et la **Sicile**.
-
-### Atterrissage imprévu à Marsala
-
-- Suite à une **fuite d'essence**, Garros atterrit à Marsala (Sicile), où il est chaleureusement accueilli par les habitants locaux.
+> « J’ai trouvé à Tunis du soleil, de la chance et de la sympathie, j’en tresserai un souvenir. »  
 
 ---
 
-## Le trajet vers Rome
+## Record du monde d’altitude  
 
-Après des réparations à Trapani, Garros poursuit son vol vers Rome :
+Roland Garros, accompagné de son manager Manselon et de ses deux mécaniciens Jules Huc et Pierre Schu, touche le sol tunisien le 29 novembre 1912, à bord d’un paquebot. Son avion, Morane Saulnier type H, équipé d’un moteur Gnome de sept cylindres rotatifs de cinquante CV et d’un autre de rechange de quatre-vingt CV, est amarré dans les soutes du bateau.  
 
-1. **Milazzo** : Atterrissage difficile dû à une foule curieuse.
-2. **Santa-Eufemia** : Envoi d’un télégramme à son ami Jacques Morane.  
-   _« Ai atterri à Santa-Eufemia. Tout s’est bien passé malgré le vent. »_
-3. **Survol du Vésuve** : Un moment marquant de son voyage.
+En décembre, Tunis bénéficie d’une température moyenne avoisinant les 12 °C. Garros n’était pas venu à Tunis pour faire du spectacle, mais dans le but de battre le record du monde d’altitude. Jouant sur la variation de la température, il espérait gagner au moins 2 000 mètres par rapport à l’Europe.  
 
-### Arrivée à Rome
-
-Le 21 décembre 1912, après plusieurs escales et une météo capricieuse, Garros atterrit à Rome. Bien que son train d'atterrissage soit endommagé, cet exploit restera gravé dans l'histoire de l'aviation.
+Son manager, Manselon, obtient la permission d’installer un hangar démontable à l’hippodrome de Ksar Saïd, où la piste de course des chevaux est transformée en piste de décollage et d’atterrissage.  
 
 ---
 
-## Héritage
+### La tentative du 5 décembre 1912  
 
-Cette traversée a marqué le début des balises de navigation aérienne et a inspiré le développement des technologies modernes telles que les systèmes GPS.
+Le jeudi 5 décembre, Garros effectue un vol d’essai, survolant la ville arabe sous les youyous des femmes tunisiennes. L’après-midi, devant une foule considérable, il tente deux vols successifs pour battre le record d’altitude. Cependant, le mauvais fonctionnement de son ballon d’oxygène et l’intensité du froid l’obligent à interrompre son ascension.  
+
+Il raconte qu’en 1911, lors d’un vol en Normandie, il avait atteint -30 °C, ce qui avait gelé son bras et manqué d’air. Cette fois-ci, il emporte davantage d’oxygène pour affronter les conditions difficiles.  
+
+---
+
+### Un triomphe le 11 décembre  
+
+Le 11 décembre 1912, Garros décolle dans un ciel clair. Après 1h26 de vol, il atterrit triomphalement, criant : « Je l’ai ! ». Le barographe indique une altitude record de **5601 mètres**, atteinte entre Carthage et Bizerte.  
+
+La Tunisie partage ce triomphe, offrant ses conditions climatiques idéales à cet exploit historique. Le héros est célébré lors d’un banquet offert par le Résident Général et fait chevalier du **Nichan El-Iftikhar** par le Bey.  
+
+---
+
+**Ce moment, inscrit dans l’histoire de l’aviation, témoigne de l’ingéniosité et du courage d’un pionnier.**  

@@ -9,7 +9,7 @@ export default function HomepageFeatures() {
     maxWidth: '1200px',
     margin: '0 auto',
     borderRadius: '10px',
-    boxShadow: '0 8px 16px rgba(0, 0, 0, 0.1)',
+    boxShadow: '0 8px 16px #D4AF37',
   };
 
   const imageColumnStyle = {

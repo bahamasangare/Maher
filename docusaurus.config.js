@@ -4,17 +4,19 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
-/** @type {import('@docusaurus/types').Config} */
+ /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Maher Daaloul',
- 
+
+  // Ajoutez la propriété URL ici
+  url: 'https://maherdaaloul.zehawitech.com/', // Remplacez par l'URL de votre site
 
   // Set the production url of your site here
-  
+
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -73,7 +75,7 @@ const config = {
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Maher Daaloul',
-       
+
         items: [
           {
             type: 'docSidebar',
@@ -89,40 +91,40 @@ const config = {
           },
         ],
       },
-            footer: {
-          style: 'dark',
-          links: [
-            {
-              title: 'Maher Daaloul',
-              items: [
-                {
-                  label: 'Ressources',
-                  to: '/docs/Introduction',
-                },
-              ],
-            },
+      footer: {
+        style: 'dark',
+        links: [
+          {
+            title: 'Maher Daaloul',
+            items: [
+              {
+                label: 'Ressources',
+                to: '/docs/Introduction',
+              },
+            ],
+          },
 
-            {
-              title: 'Welcome',
-              items: [
-                {
-                  label: 'Accueil',
-                  to: '/',
-                },
-              ],
-            },
-            {
-              title: 'More',
-              items: [
-                {
-                  label: 'Qui est Maher Daaloul ?',
-                  to: '/blog',
-                },
-              ],
-            },
-          ],
-          copyright: `Copyright © ${new Date().getFullYear()} Maher Daaloul, Built with Bahama SANGARE.`,
-        },
+          {
+            title: 'Welcome',
+            items: [
+              {
+                label: 'Accueil',
+                to: '/',
+              },
+            ],
+          },
+          {
+            title: 'More',
+            items: [
+              {
+                label: 'Qui est Maher Daaloul ?',
+                to: '/blog',
+              },
+            ],
+          },
+        ],
+        copyright: `Copyright © ${new Date().getFullYear()} Maher Daaloul, Built with Bahama SANGARE.`,
+      },
 
       prism: {
         theme: prismThemes.github,

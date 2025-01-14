@@ -17,3 +17,33 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+photographie:
+  label: Photographie
+  permalink: /photographie
+  description: Description du tag photographie
+
+galerie:
+  label: Galerie
+  permalink: /galerie
+  description: Description du tag galerie
+
+infographiste:
+  label: Infographiste
+  permalink: /infographiste
+  description: Description pour infographiste
+
+animation-3d:
+  label: Animation 3D
+  permalink: /animation-3d
+  description: Description pour animation 3D
+
+modelisation:
+  label: Modélisation
+  permalink: /modelisation
+  description: Description pour modélisation
+
+experience-professionnelle:
+  label: Expérience Professionnelle
+  permalink: /experience-professionnelle
+  description: Description pour expérience professionnelle

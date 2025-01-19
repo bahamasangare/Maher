@@ -123,7 +123,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Maher Daaloul, Built with Bahama SANGARE.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Maher Daaloul, Built with <a href="https://zehawitech.com" target="_blank" rel="noopener noreferrer">Bahama SANGARE</a>.`,
       },
 
       prism: {

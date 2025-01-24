@@ -13,7 +13,7 @@ const config = {
   title: 'Maher Daaloul',
 
   // Ajoutez la propriété URL ici
-  url: 'https://maherdaaloul.zehawitech.com/', // Remplacez par l'URL de votre site
+  url: 'https://maherdaaloul.tn/', // Remplacez par l'URL de votre site
 
   // Set the production url of your site here
 

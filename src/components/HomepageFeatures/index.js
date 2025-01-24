@@ -77,7 +77,7 @@ export default function HomepageFeatures() {
         <div style={textColumnStyle}>
           <h1 style={titleStyle}>Maher Daaloul</h1>
           <p style={descriptionStyle}>
-            Cette plateforme est une <span style={highlightStyle}>dédiée</span> aux travaux, à la
+            Cette plateforme est <span style={highlightStyle}>dédiée</span> aux travaux, à la
             créativité et à la passion inébranlable de Maher Daaloul. À travers ses innovations
             et ses réalisations, Maher a laissé une empreinte indélébile dans le cœur de tous
             ceux qui l'ont connu.
@@ -93,7 +93,7 @@ export default function HomepageFeatures() {
           <p style={descriptionStyle}>
             Il avait un profond respect pour son père, une admiration sans bornes pour sa mère,
             et un amour incommensurable pour sa famille. Sa vie personnelle, empreinte de
-            simplicité et d'authenticité, était le reflet d'une âme belle et généreuse.
+            simplicité et d'authenticité, était le reflet d'une <span style={highlightStyle}> âme belle et généreuse</span>.
           </p>
           <p style={descriptionStyle}>
             Son parcours professionnel, riche et captivant, est digne des plus grands récits.
@@ -103,7 +103,7 @@ export default function HomepageFeatures() {
           <p style={conclusionStyle}>
             <strong>
               Maher Daaloul, merci pour chaque instant partagé. Ton héritage continuera
-              d'inspirer pour les générations à venir.
+              d'inspirer.
             </strong>
           </p>
         </div>
